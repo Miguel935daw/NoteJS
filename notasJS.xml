@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notas>
+  <personales>
+    <personal>
+      <ID>1</ID>
+      <titulo>perico</titulo>
+      <contenido>sdadad</contenido>
+      <fecha>03/03/2022</fecha>
+      <favoritos>false</favoritos>
+    </personal>
+  </personales>
+  <profesionales>
+    <profesional>
+      <ID>1</ID>
+      <proyecto>sad</proyecto>
+      <departamento>adsas</departamento>
+      <empresa>sda</empresa>
+      <fechaentrega>1/1/2022</fechaentrega>
+    </profesional>
+  </profesionales>
+  <tareasdomesticas>
+    <tareadomestica>
+      <ID>1</ID>
+      <titulotarea>sdfasda</titulotarea>
+      <check>true</check>
+      <prioridad>Media</prioridad>
+    </tareadomestica>
+  </tareasdomesticas>
+</notas>
